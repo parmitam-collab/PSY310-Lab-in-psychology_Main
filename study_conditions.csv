@@ -1,0 +1,25 @@
+display_word,word,proc_level,question,corrAns
+CLOUD,cloud,structural,Is the word in CAPITAL letters?,y
+HORSE,horse,structural,Is the word in CAPITAL letters?,y
+STONE,stone,structural,Is the word in CAPITAL letters?,y
+SHIRT,shirt,structural,Is the word in CAPITAL letters?,y
+chair,chair,structural,Is the word in CAPITAL letters?,n
+glove,glove,structural,Is the word in CAPITAL letters?,n
+nail,nail,structural,Is the word in CAPITAL letters?,n
+desk,desk,structural,Is the word in CAPITAL letters?,n
+coat,coat,phonemic,Does the word rhyme with 'boat'?,y
+bell,bell,phonemic,Does the word rhyme with 'shell'?,y
+kite,kite,phonemic,Does the word rhyme with 'night'?,y
+ring,ring,phonemic,Does the word rhyme with 'king'?,y
+lamp,lamp,phonemic,Does the word rhyme with 'fish'?,n
+rope,rope,phonemic,Does the word rhyme with 'milk'?,n
+drum,drum,phonemic,Does the word rhyme with 'leaf'?,n
+brush,brush,phonemic,Does the word rhyme with 'star'?,n
+knife,knife,semantic,Does the word fit the sentence: She cut the vegetables with a ____.,y
+bowl,bowl,semantic,Does the word fit the sentence: She filled the ____ with water.,y
+train,train,semantic,Does the word fit the sentence: We travelled to Delhi by ____.,y
+rose,rose,semantic,Does the word fit the sentence: The bee landed on the ____.,y
+spoon,spoon,semantic,Does the word fit the sentence: The ____ barked at the stranger.,n
+shoe,shoe,semantic,Does the word fit the sentence: The ____ melted in the hot sun.,n
+chalk,chalk,semantic,Does the word fit the sentence: The ____ flew high in the sky.,n
+belt,belt,semantic,Does the word fit the sentence: She drank a cup of hot ____.,n

@@ -1,0 +1,4 @@
+display_word,word,proc_level,question,corrAns
+BOOK,book,structural,Is the word in CAPITAL letters?,y
+cat,cat,phonemic,Does the word rhyme with 'hat'?,y
+egg,egg,semantic,Does the word fit the sentence: The ____ sang a beautiful song.,n
